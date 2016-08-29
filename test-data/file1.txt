@@ -1,0 +1,76 @@
+Moodle
+Next activity ?
+You are here
+NU MOODLE / ? NU CS102 / ? Resources / ? PROJECTS
+ 
+Project Objectives:
+
+- To give the students reasonably challenging and relevant scope to apply their learnings and develop an application on the lines of a real life requirement using data-structures.
+- To review and deploy a data-structures rich program, which is focussed to make the student learn and deeply understand the various concepts covered in our course 
+- To enforce a coding discipline, and modular practices with team work 
+- By working on such a project, the student would automatically revise all the contents of the course in an experiential manner which would reduce a lot of study effort for this course. 
+
+Prerequisites:
+
+- The project should use some data-structure concepts such as stacks, queues, linked lists, trees, hashing etc.
+- Development should be done in groups with minimum 2 and maximum 5 participants. 
+
+Deliverables: 
+
+- Working demo of the project
+- Viva during the demo targeting each group member with complete project scope
+- Source code to be submitted
+- Demo would be within the last week just before the comprehensive exam
+
+Rewards :
+
+Maximum Marks : 20
+Distribution of Marks is as follows:
+
+03 marks for coding guidelines ( common to all members of group )
+Coding guidelines would include the following:
+* comments
+* Indenting
+* Variable naming
+* Readability
+* Modularity
+
+02 marks for group cohesiveness and distribution of work ( common to all members of the group )
+Group cohesiveness implies that each member of the group would contribute effectively to the project, and would have a sound understanding of the technical working of the entire project scope and not just his/her modules.
+
+10 marks for individual understanding of the project ( viva )
+
+05 marks for level of completeness as per defined scope and assessed as per difficulty level of the project ( common to all members of the project )
+This would be evaluated as per the demonstration. The project may be working in parts, or might not be working at all. It is recommended that the project is done in phases so that various bits start to work. Even if the project is not working at all, it does not mean that one gets a zero. In that case, the source code would be looked at to understand the completeness of the project. 
+
+Note: Project has to be completed and demonstrated as per scheduled timing. If it is not complete, the demonstration would be based on source code in whatever state it is. 
+The whole idea of the project is to enforce learning before the comprehensive examination. No submission of the source code or the project demo would be accepted after the scheduled demonstration dates.
+
+Following topics are suggested. More topics would be added in due time. Students can also discuss project ideas that match the competence level of the below projects. Ideally the project should encompass a good use of C with data structures. 
+
+Give a list of group members at the earliest, along with the project scope. After discussion we would suggest editing of the project scope if it is felt too big or too small. Your project scope should give a general idea of the user interface as well as the internal processing as is envisaged by you. 
+
+TOPICS
+1) Develop an Index writer which indexes keywords of a text file based on their line numbers where they occur. Use a file called excludes.txt to exclude certain words, and output should be like a report sorted by keywords alphabetically. It should also be possible to query a word directly so that line numbers where it occurs can be displayed by the program. 
+Recommended data structures – trees and/or linked list combinations 
+
+2) Develop a program to use a CSV file as a generic data source. One should be able to do query using trees, store minimal data in tree, certain column(s) may be usable as a key. The CSV file would be maintained in Excel, and one can also add/decrease columns. The program should be able to customize as per the current state of the CSV file. The first row of the CSV file would be the field names which can be anything. 
+
+3) Develop an application for Bank A/C management system. There should be a master database to maintain all account holder’s information and current balance. Whenever any debit/credit transaction is done, the transaction should be logged in a transaction file, and the master database should also be updated. Minimal details should be loaded into the tree.
+Typical menu options could be : Add/Modify/Transaction/Report 
+
+4) Demonstrate word wrapping. Your program should read a text file and should be able to display it in varying width in terms of number of characters per line. No word should be split across multiple lines. After the display, it should be possible to enter a different width and see the file contents in that width.
+
+Enhancements to this project could be to display content in justified manner, where in the extra spaces get padded within the line so that the text appears in a consistent width on each line. 
+
+5) Implement a dictionary using hashing in a binary file to store a keyword and its meaning/definition
+The main hash file would contain the keyword along with the definition of the word. If the word is not found in the dictionary, there should be a provision to add the meaning of this word and add to the dictionary so that this can keep growing with time. Implement a dictionary using hashing in a binary file to store a keyword and its meaning/definition 
+
+6)Input a text file name, and read all the words in it and store them as a index. Similarly we can add more files to this index. Storage technique should be a hash. While searching when a keyword is given, the program should be able to locate the keyword and display all the files in which it was existing. 
+After this we should be able to query for a word and locate in which all files it is found. This could be a separate program or in the same program 
+Main hash file contains the keyword and the offset location in the second datafile where the list of filenames is stored. 
+The file to store list of filenames should contain : fileName and the offset of the next record in the same file. The last record would have 0 as the next record offset. 
+
+7) Load the record's offset and the selected key ( id or title ) from the films database into a tree. After that one should be able to query the key, locate it in the tree and read the required record using the offset. 8)Implement a height balanced binary tree system that allows addition, deletion, searching and traversal of the tree. Height balancing of the tree needs to be maintained using the AVL algorithm. 9) Load the films.dat records into a linked list, such that each node of the list contains the key ( id or title ) and the offset of the record. One should be able to query for the key and locate the full record from the database using this.
+Last modified: Tuesday, 8 April 2014, 10:49 PM
+You are logged in as karthikeyan s (Logout)

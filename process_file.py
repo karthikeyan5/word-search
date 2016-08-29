@@ -1,5 +1,5 @@
 # this adds words to the dictionary from single text file passed to it.
-import find_word.py as fw
+import find_word as fw
 def file_processing(fname,fp):
     L=[]
     for line in fp:

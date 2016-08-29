@@ -1,0 +1,218 @@
+
+TechCrunch
+Got a tip? Let us know.
+News
+TCTV
+Events
+SEARCHCrunchBase
+Follow Us Facebook  Twitter  Google+  LinkedIn  Youtube  RSS  Email
+Disrupt NY 2014
+May 5 - 7, 2014	 | Manhattan Center, New York, NY
+Coverage
+Agenda
+The Battlefield
+Anti-Harassment Policy
+Startup Alley
+Sponsor Info
+Sponsors
+Tickets
+Speakers
+Hackathon
+Press Info
+Live Video
+All The Important Stuff From TechCrunch Disrupt NY
+Posted yesterday by Josh Constine (@joshconstine)
+ 
+inShare
+53
+More
+Next Story
+
+So what happened at Disrupt NY? With 25 panels, 27 startup demos, and a hackathon, TechCrunch’s annual gathering in New York produced plenty of news, insight, and controversy. Even if you were there in person it was a lot to process, so we’ve compiled a Cliff’s Notes for the conference.
+
+For starters, here’s a supercut of the best soundbites:
+
+
+Facebook  LinkedIn
+Say What? The Quotable Disrupt NY
+Keynotes, Panels, And Fireside Chats
+
+Fred Wilson Says Apple Won’t Be A Top-3 Tech Company By 2020 – Union Square Ventures’ boss Fred Wilson sees Apple as “too rooted to the hardware, and I think that hardware is increasingly becoming more a commodity.” As Android devices make leaps forward in terms of quality, Apple’s iPhones, iPads, and MacBooks seem to be stagnating. If the hardware playing field levels out, the big differentiator could become software where Apple is widely ridiculed but Google’s Android, Gmail, Maps, and Now are lauded. Wilson told TechCrunch founder Michael Arrington how Google Glass is going in the right direction, but the implementation is wrong.
+
+fred-wilson1
+
+Kickstarter Won’t Do Equity Crowdfunding - Kickstarter does not plan to let project supporters get equity or other financial bonuses for backing successful campaigns, and will stick to physical rewards and gifts.
+
+Sam Altman Aims To Grow Y Combinator’s Power – When pushed by Arrington, YC’s new president admitted “I do think, unlike other stages of investing, there is a monopoly in the accelerator space…I think we get the best companies, which is 90 percent of the hard work.” To further that mission, YC is bringing its Startup School one-day conference to international locations, which could help it keep up with 500 Startups’ global aspirations. YC is also investing in a bigger team for its Hacker News site. Altman concluded that going public can make companies evil as it forces them to optimize for the short-term.
+
+sam-altman6
+
+Don’t Store Your Bitcoin With A Centralized Service - Cryptocurrency experts Peter Smith of Blockchain.info and Susan Athey of Stanford University say bitcoin isn’t just a proof of concept. They predict it will remain a powerful component of the magical Internet money space. They cautioned about using centralized services like Mt.Gox that hold your bitcoins. Instead, they recommend storing them yourself and using a decentralized management tool.
+
+Selling To Facebook Lured Big Developers To Oculus - Despite the backlash, Oculus CEO Brendan Iribe says being acquired by Facebook gave large game developers the confidence in its longevity to start building for Oculus Rift. He also revealed that Oculus has founded a research group that works with universities to get students developing for VR.brendan-iribe-oculus2
+
+Vice Hits 160-170 Million Video Views Per Month – Vice’s video footprint is big now, but it aims to hit 2 billion to 3 billion views a month to become 10x the size of CNN, ESPN, or MTV according CEO Shane Smith. The company is looking to capitalize on the shortcomings of traditional news outlets to engage Generation Y with content that “should punch you in the face,” and plans to make acquisitions.
+
+Tech Workers Should Find Jobs That Benefit The World - Disrupt’s most controversial talk was with Asana co-founder Justin Rosenstein, whose keynote asked those lucky enough to have job mobility to find professions where their passion intersect with a way to help others thrive. Critics derided the push as naive or too tough to execute, while others agreed that the tech industry has become too obsessed with making money when it has the potential to assist in reducing global suffering.
+
+TechCrunch Disrupt NY 2014 - Day 1
+
+Jawbone’s Future May Be Identity Wearables - Jawbone CEO Hosain Rahman believes the evolution of wearables will be in devices that know who you are and can communicate that to other technology around you for personalization.
+
+Birchbox Will Expand To South America And Asia – The subscription beauty package startup’s founders say they’ll be cautiously bringing the service international and won’t expand to other subscription verticals like clothes. Katia Beauchamp (who was nine months pregnant) and Hayley Barna stressed that people shouldn’t have to put their personal lives on hold to build a business.
+
+birchbox8
+
+BuzzFeed On Track For 150 Million Monthly Uniques - Lerer Ventures’ partners gave an update on BuzzFeed’s traffic, saying it’s going to double last year’s and hit 150 million uniques per month. They also noted another of their portfolio companies NowThisNews is planning a partnership with Snapchat to strengthen the short-form news service’s existing presence in the ephemeral app. Partner Eric Hippeau noted, “in order to be a media company going forward, you need to be a tech company first.”
+
+Comcast CEO Owns Up To It Being The “Worst Company In America” – In response to winning the horrible distinction, Comcast CEO Neil Smit said improving customer service is his top priority, and he wants customers to be able to know exactly when a technician will arrive.
+
+neil-smit7
+
+SV Angel Says Its “Cognizant” Of Its Gender Imbalance – Managing Partners David Lee and Brian Pokorny said they believe a diversity of opinions leads to better outcomes for investment funds, but admitted they have no female partners or associates — an imbalance far too prevalent in the industry. On a lighter note, they discussed drones, bitcoin, and health informatics as areas for investors to watch, and that strong ethics is a crucial trait in founders they fund.brian-pokomy-david-lee
+
+Monegraph Lets Internet Artist Establish Original Versions Of Their Work - Anil Dash and Kevin McCoy launched a new tool for artists at Disrupt. Monegraph uses cryptocurrency technology so creators can watermark versions of their work as originals, which could help them earn money from digital art.
+
+Secret Downplays Cyberbullying, Reveals Plan For Private Chat Feature – Secret is building its own native version of Anonyfish, the anonymous one-on-one third-party chat service Secret users currently use to bring conversations offline or reveal their identities. Regarding the content of Secrets, co-founder Chrys Bader-Wechseler said about “most of them are positive to neutral,” though many users frequently encounter posts that bully or insult people.
+
+david-byttow
+
+3D Printers And 3D Printing Services Will Coexist – Shapeways CEO Peter Weijmarshausen explained that people with skill and passion will 3D print at home, but everyone will have access to cutting edge 3D printers with a wide variety of materials thanks to end-to-end services like Shapeways.
+
+HBO’s “Silicon Valley” Make A Mockery Of Disrupt - Literally, the cast discusses how the TV show parodies our conference for several episodes. The panel is hilarious, so you should just watch it.silicon-valley-hbo22
+
+Investors Acknowledge Valuations Are High And We Need More Female VCs – High-profile venture capitalists John Lilly of Greylock, Alfred Lin of Sequoia, and Bijan Sabet of Spark all admitted their firms could do better in terms of gender equality, as none have female partners. Shana Fisher of Highline pointed to an overall shortage of women in tech due to educational factors, and said other minorities are underrepresented, as well. The group of investors also agreed that tech company valuations have gotten a bit too high.
+
+Whisper CEO Battles Arrington Over Merits Of Anonymity - The success theater of traditional social networks where people only share a highlight reel of their lives is causing a decline in empathy, Whisper CEO Michael Heyward argued. But while claiming his app features authenticity and a caring community, Heyward stumbled when trying to defend why it’s all right to bash public figures in Whisper.
+
+michael-heyward-whisper16
+
+Atomico VC Says Fab Expanded Too Fast – There’s enormous potential for startups abroad, said Atomico fund boss Niklas Zennstrom, citing research that in the last 10 years, 44 “billion dollar” companies came from Silicon Valley, but there were 18 from China and 55 from the rest of the world. Still, startups can’t try to internationalize before their products are ready. Zennstrom noted “Sometimes, we’ve been too eager to help companies expand” when discussing e-commerce site Fab that has suffered layoffs.
+
+CEO Marissa Mayer Argues Yahoo Is Undervalued - Mayer disputed claims that Yahoo is worth nothing because its market cap is roughly equivalent to the value of its Alibaba and Yahoo Japan stakes. That calculation doesn’t account for taxes, plus Yahoo has several popular properties and revenue is inclining. Mayer said she’s staffed up Yahoo’s mobile team to over 500 members since joining, as the company pursues becoming “the world’s digital daily habit.” Search, mail, and digital magazines are top priorities, as are design-oriented apps. As for video, Mayer has pared down Yahoo’s 86 different series so it can focus on making a few hits.
+
+marissa-mayer15
+
+Hackathon And Startup Battlefield
+
+14135441733_a16d79ca56_o
+
+Before Disrupt’s main event kicked off, we hosted 96 teams for a weekend-long hackathon. We saw a DIY Oculus Rift called 3Dioo, new ways for business travellers to book trips, and a Tor-powered Linux box called oRouter that secures your Internet connection. In the end, an Oculus app called Vrban that lets city planners explore hypothetical changes to cityscapes won the 2014 Disrupt NY Hackathon.
+
+hackathon-winner-vrban
+
+During the Startup Battlefield, 27 companies competed onstage in front of panels of expert judges that included Marissa Mayer, Ryan Sarver, Fred Wilson, and Chris Dixon. Along with 25 chosen by the TechCrunch team, two Startup Alley exhibitors Roadie (a robotic guitar tuner)  and CodeAnywhere (a Google Docs for developers).
+
+14108880756_e4f0b2f70e_o
+
+After two days of presentations and Q&A, 6 finalists emerged:
+
+Mink - A 3D printer for makeup. Mink lets you find a color online and print customized makeup at home rather than paying high prices for limited selections from stores or big brands.choi-disruptmeme
+
+Mimi - An app-based hearing aid system. Mimi can test your hearing and simulate enhanced hearing with its app plus your phone’s microphone and headphones. The plan is to make Mimi into a government-approved medical hearing aid.
+
+ISI Technologies - Makers of a smart water heater called the Heatworks Model 1 that saves energy and water by instantly heating the h20 through graphite electrodes. It provides pinpoint temperature control, and can be used through a smartphone app.water-heater-isi-technology
+
+Boomerang Commerce – A dynamic pricing engine that helps ecommerce sites increase sales. Merchants can run Boomerang’s big data system to track 100 factors from traffic to competitors’ prices to optimize how much their items sell for in real time.
+
+Vurb – A reimagination of search that aggregates answers to questions onto content-rich cards rather than returning a list of search results. For example, a Vurb web or mobile app search for movies in theaters could return a card with quick access to average review scores, showtimes, directions, info on the theater, and nearby restaurants.
+
+Vurb Movies
+
+Showkit – A licensable video customer service system that can be embedded in any app. Showkit can be conjured with a tap to start a live video chat with a customer service agent that can see your screen, draw on it, or take control to help you.
+
+showkit3
+
+After some tough deliberation, ISI Technologies won runner-up, and the 2014 TechCrunch Disrupt NY Startup Battlefield winner was Vurb.vurb-battlefield-winner
+
+Thanks to everyone who came, spoke, demoed, or sponsored. Next year we have plans to make the whole event feel more cohesive with a better integrated Startup Alley and more exciting after-parties.
+
+Most of all, we want to share our gratitude to the city of New York for welcoming us. There’s no denying NYC has a vibrant tech ecosystem that’s getting stronger all the time. While it’s rightfully known as the center of the universe for so many industries, it’s amazing how a little friendly competition with Silicon Valley has fostered a cooperative atmosphere between New Yorkers as the Big Apple strives to grow its slice of the tech industry pie.
+
+13930754949_71a12fc70f_b
+
+ 
+
+inShare
+53
+submit to reddit
+
+CrunchBase
+TechCrunch
+FOUNDED
+June 2005
+TOTAL FUNDING
+Not available
+OVERVIEW
+TechCrunch, founded on June 11, 2005 by Michael Arrington, is a network of technology-oriented blogs and other web properties.
+FOUNDERS
+Oliver Starr, Ouriel Ohayon, Michael Arrington, Keith Teare, Ouriel Ohayon
+WEBSITE
+http://techcrunch.com
+Full profile for TechCrunch
+CrunchDaily
+Latest headlines delivered to you daily
+
+Enter Email Address SUBSCRIBE
+Related Videos
+ Backstage Interview with Battlefield Winners Vurb
+Backstage Interview with Battlefield Winners Vurb
+6:45
+ Disrupt New York 2014 Closing Awards Ceremony
+Disrupt New York 2014 Closing Awards Ceremony
+ Is Winter Coming? | TC Disrupt NY 2014
+Is Winter Coming? | TC Disrupt NY 2014
+More Related Videos
+TechCrunch
+disrupt ny
+Disrupt
+Startups
+Popular Posts
+
+ 
+UP NEXT
+Conductor Says It Wants To “End” Ads And Turn “Web Presence Management” Into A Real Thing
+Posted yesterday
+CrunchBoard
+Job Listings
+
+Platform Engineer
+Platfora
+Program Manager, Search Engine Optimization
+Payscale
+Software Engineer, Search Engine Optimization
+PayScale
+Director of Demand Generation
+Radius Intelligence
+Senior Software Engineer
+GrubHub, Inc.
+More from CrunchBoard
+TechCrunch
+
+News
+TCTV
+Events
+CrunchBase
+About
+
+Staff
+Contact Us
+Advertise With Us
+Send Us A Tip
+International
+
+China
+Europe
+Japan
+Follow TechCrunch
+
+Facebook Twitter Google+ LinkedIn Youtube Pinterest Tumblr Instagram StumbleUpon Feed
+TechCrunch Apps
+
+iOS Android Windows 8
+Subscribe to CrunchDaily
+
+Latest headlines delivered to you daily
+
+Enter Email Address SUBSCRIBE
+© 2013-2014 AOL Inc. All rights reserved. Aol Tech Privacy Policy About Our Ads Anti Harassment Policy Terms of Service Powered by WordPress.com VIP Fonts by <Webtype> 

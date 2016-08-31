@@ -3,6 +3,8 @@ import os,sys
 import process_file,find_word
 from getchar import getch
 
+dict = {}
+
 
 def clscr():
     if os.name == "posix":
@@ -10,6 +12,10 @@ def clscr():
     elif os.name == "nt":
         os.system('cls')  # Windows
 
+def init_dict():
+    for i in range(ord('a'),ord('z')+1):
+        dict[chr(i)] = {}
+    print(dict)
 
 
 
@@ -45,14 +51,46 @@ def build_dict_menu():
     
 
 def process_filelist(f):
-    print("processing file...")
+    file_success = file_empty = file_missing = 0
+    print("processing files now...")
+    for line in f:
+        line = line.strip()
+        try:
+            with open(line, "r", encoding="ascii", errors="surrogateescape") as fobj:
+                if(os.stat(line).st_size == 0):
+                    print(line, " is empty.")
+                    file_empty += 1
+                else:
+                    process_file.file_processing(line,fobj,dict)
+                    file_success += 1
+        except OSError:
+            print(line, "is not Found")
+            file_missing += 1
+    #print(dict['a'])
+    getch()
+    main_menu()
+
+def search_menu():
+    clscr()
+    print("Word Search".center(100))
+    print("Enter the word you want to search: ")
+    word = input()
+    file_list = find_word.find_word(word.lower(),dict)
+    if file_list == None:
+        print(word ,"is not found in any file")
+    else:
+        print("'"+ word + "' is found in the following files:")
+        for fname in file_list:
+            print(fname)
+    getch()
+    main_menu()
 
 
 
 
 
 
-
+init_dict()
 main_menu()
 
 

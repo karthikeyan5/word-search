@@ -1,6 +1,6 @@
 # this adds words to the dictionary from single text file passed to it.
 import find_word as fw
-def file_processing(fname,fp):
+def file_processing(fname,fp,dict):
     L=[]
     for line in fp:
         for word in line.split():

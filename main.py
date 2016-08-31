@@ -7,9 +7,7 @@ from getchar import getch
 def clscr():
     if os.name == "posix":
         os.system('clear')  # on linux / os x
-        os.system('clear')  # on linux / os x
     elif os.name == "nt":
-        os.system('cls')
         os.system('cls')  # Windows
 
 
@@ -35,13 +33,23 @@ def build_dict_menu():
     print("\n\nYour Current Directory is: "+ os.getcwd())
     print("\n\nPlease enter the <path/filename> containing the list of text file to be indexed: ")
     file = input()
+
     try:
         with open(file, 'r', encoding="ascii", errors="surrogateescape") as f:
-            
+            if(os.stat(file).st_size == 0):
+                print("The file is empty please try again.")
+            else:
+                process_filelist(f)
     except OSError:
-        # 'File not found' error message.
-        print("Fichier non trouvé")
+        print("File not Found")
     
+
+def process_filelist(f):
+    print("processing file...")
+
+
+
+
 
 
 

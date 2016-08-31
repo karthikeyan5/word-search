@@ -5,10 +5,4 @@ def find_word(search_word,dictionary):
     first_alphabet = (search_word.lower()[0:1])
     result = dictionary[first_alphabet].get(search_word.lower())
     return result
-
-
-
-
-
--
-
+    

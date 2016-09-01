@@ -19,7 +19,4 @@ the program should be able to display all the files where this word is found.
 ## Instructions
 1. Please run the "main.py" by using the following command in your command promt.  
         `python3 main.py`
-
-
-## Project Blueprint
-1. main.py - this is the file that should be executed.
+2. The file containing the list of text files to be indexed needs to have one file name per line. 

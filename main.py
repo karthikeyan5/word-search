@@ -1,4 +1,21 @@
-# this is the file that should be executed.
+"""
+## Project Objective 
+3) An index file contains a list of text file paths to be considered ( one per line ). Build a file list that
+contains respective dictionary of words which are grouped by the starting alphabet. If we enter a word,
+the program should be able to display all the files where this word is found. 
+
+## Team Members 
+1. Aswin Kumar (S6)     U101113FBT003
+2. E.Gurubaran (S6)     U101113FEC024
+3. S.Karthikeyan (S5)   U101113FCS088
+4. Vaddela Jaideep (S5) U101113FCS160
+5. Pranith Kumar (S6)   U101113FEC225
+
+## Instructions
+1. Please run the "main.py" by using the following command in your command promt.  `python3 main.py`
+2. The file containing the list of text files to be indexed needs to have one file name per line. 
+"""
+
 import os,sys,re
 from getchar import getch
 
@@ -30,11 +47,15 @@ def main_menu():  # displays main menu and takes care of user menu selections
         elif input == '2':
             search_menu()
         elif input == '3':
-            print("\n")
-            print("Hope you enjoyed using this program !!! Bye :)\n\n".center(100))
-            exit()
+            print("are you sure you want to exit? ('y' to exit')")
+            input = getch()
+            if input.lower() == 'y':
+                print("\n")
+                print("Hope you enjoyed using this program !!! Bye :)\n\n".center(100))
+                exit()
+            main_menu()
 
-def build_dict_menu():
+def build_dict_menu():  # displays built dictionary menu
     clscr()
     print("Build Dictionary".center(100))
     print("\n\nYour Current Directory is: "+ os.getcwd())
@@ -65,7 +86,7 @@ def file_processing(fname,fp,dict):  # this adds words to the dictionary from si
                 else:
                     filenames_list.append(fname)
 
-def process_filelist(f):
+def process_filelist(f):  # this function processes the list of files to index
     file_success = file_empty = file_missing = 0
     print("processing files now...")
     for line in f:
@@ -81,11 +102,15 @@ def process_filelist(f):
         except OSError:
             print(line, "is not Found")
             file_missing += 1
-    print("\nfiles indexing Complete... press any key...")
+    print("\nfiles indexing Complete...")
+    print(file_success , " of " , (file_empty+file_missing+file_success) , " files processed successfully.")
+    print(file_empty , "files were empty.")
+    print(file_empty , "files were not found.")
+    print("\n press any key...")
     getch()
     main_menu()
 
-def search_menu():
+def search_menu():  # displays the search menu
     clscr()
     print("Word Search".center(100))
     print("Enter the word you want to search: ")
@@ -102,6 +127,5 @@ def search_menu():
     main_menu()
 
 init_dict()
-
 if __name__ == '__main__':
     main_menu()

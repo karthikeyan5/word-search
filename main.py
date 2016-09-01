@@ -58,17 +58,20 @@ def main_menu():  # displays main menu and takes care of user menu selections
 def build_dict_menu():  # displays built dictionary menu
     clscr()
     print("Build Dictionary".center(100))
-    print("\n\nYour Current Directory is: "+ os.getcwd())
-    print("\n\nPlease enter the <path/filename> containing the list of text file to be indexed: ")
-    file = input()
-    try:
-        with open(file, 'r', encoding="ascii", errors="surrogateescape") as f:
-            if(os.stat(file).st_size == 0):
-                print("The file is empty please try again.")
-            else:
-                process_filelist(f)
-    except OSError:
-        print("File not Found")
+    while True:
+        print("\n\nYour Current Directory is: "+ os.getcwd())
+        print("\nPlease enter the < path/filename > containing the list of text file to be indexed: - (type `back()` to go to main menu)")
+        file = input()
+        if file == "back()":
+        	main_menu()
+        try:
+            with open(file, 'r', encoding="ascii", errors="surrogateescape") as f:
+                if(os.stat(file).st_size == 0):
+                    print("The file is empty. please try again.")
+                else:
+                    process_filelist(f)
+        except OSError:
+            print("File not Found. Please try again.")
 
 regex = re.compile("([A-Za-z]+)")  # regular expression that returns words from line
 def file_processing(fname,fp,dict):  # this adds words to the dictionary from single text file passed to it.
@@ -84,7 +87,8 @@ def file_processing(fname,fp,dict):  # this adds words to the dictionary from si
                 if filenames_list == None:
                     dict[word[0:1]][word] = [fname]
                 else:
-                    filenames_list.append(fname)
+                    if fname not in filenames_list:
+                        filenames_list.append(fname)
 
 def process_filelist(f):  # this function processes the list of files to index
     file_success = file_empty = file_missing = 0

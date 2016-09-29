@@ -16,7 +16,7 @@ the program should be able to display all the files where this word is found.
 2. The file containing the list of text files to be indexed needs to have one file name per line. 
 """
 
-import os,sys,re
+import os,re
 from getchar import getch
 
 dict = {}
@@ -78,8 +78,6 @@ def file_processing(fname,fp,dict):  # this adds words to the dictionary from si
     L=[]
     for line in fp:
         for word in regex.findall(line):
-            if not word.isalpha():
-                continue
             word = word.lower()
             if word not in L:
                 L.append(word)
@@ -109,7 +107,7 @@ def process_filelist(f):  # this function processes the list of files to index
     print("\nfiles indexing Complete...")
     print(file_success , " of " , (file_empty+file_missing+file_success) , " files processed successfully.")
     print(file_empty , "files were empty.")
-    print(file_empty , "files were not found.")
+    print(file_missing , "files were not found.")
     print("\n press any key...")
     getch()
     main_menu()
